@@ -11,10 +11,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 public class MemberResponse {
 	private int id;
-	
 	private String name;
-	
 	private String contact;
-	
 	private MemberType type;
 }
